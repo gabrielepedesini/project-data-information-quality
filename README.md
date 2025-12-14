@@ -1,0 +1,28 @@
+# Data Information Quality Project
+
+This project performs data quality pipeline on the "Comune di Milano Pubblici esercizi" dataset, which contains information about public establishments in Milan.
+
+## Authors
+
+- **Stefan Calugaru**  
+  Personal Code: 10852010 – Student ID: 212886  
+
+- **Stefano Molteni**  
+  Personal Code: 10894104 – Student ID: 306650  
+
+- **Gabriele Pedesini**  
+  Personal Code: 10840961 – Student ID: 304425
+
+## Installation
+
+1. Clone this repository.
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+It is possible to find pipeline's scripts in the ```project.ipynb``` file. 
+
+To run the pipeline, simply execute the notebook in a Jupyter environment.
