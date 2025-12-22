@@ -5,3 +5,5 @@ seaborn
 ydata-profiling
 ipywidgets
 setuptools
+mlxtend
+scikit-learn
