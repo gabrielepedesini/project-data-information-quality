@@ -33,7 +33,8 @@ To run the pipeline, simply execute the notebook in a Jupyter environment.
 ## Content
 
 The project contains the following files:
-- `project.ipynb`: Jupyter notebook containing the data quality pipeline implementation. 
+- `project.ipynb`: Jupyter notebook containing the data quality pipeline implementation
 - `requirements.txt`: List of Python dependencies required to run the project
 - `input.csv`: The input dataset file containing public establishments data for Milan
 - `output.csv`: The output dataset file after applying the data quality pipeline
+- `report.pdf`: A detailed report explaining the data quality issues and the steps taken to address them
