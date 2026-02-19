@@ -2,17 +2,20 @@
 
 This project performs data quality pipeline on the "Comune di Milano Pubblici esercizi" dataset, which contains information about public establishments in Milan.
 
+**Dataset number**: 11
+
+**Teacher**: Cinzia Cappiello
+
+The final grade is: **4/4**
+
 
 ## Authors
 
-- **Stefan Calugaru**  
-  Personal Code: 10852010 – Student ID: 212886  
+- [**Stefan Calugaru**](https://github.com/stefancal)
 
-- **Stefano Molteni**  
-  Personal Code: 10894104 – Student ID: 306650  
+- [**Stefano Molteni**](https://github.com/stefano656)
 
-- **Gabriele Pedesini**  
-  Personal Code: 10840961 – Student ID: 304425
+- [**Gabriele Pedesini**](https://github.com/gabrielepedesini)  
 
 
 ## Installation
